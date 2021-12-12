@@ -5,6 +5,7 @@ import matter from 'gray-matter';
 
 import Layout from '../../../components/Layout';
 import Post from '../../../components/Post';
+import Pagination from '../../../components/Pagination';
 import { sortByDate } from '../../../utils';
 import { POSTS_PER_PAGE } from '../../../config';
 
@@ -18,6 +19,8 @@ export default function BlogPage({ posts, numPages, currentPage }) {
           <Post key={index} post={post} />
         ))}
       </div>
+
+      <Pagination currentPage={currentPage} numPages={numPages} />
     </Layout>
   );
 }
