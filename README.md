@@ -8,8 +8,8 @@ Stack: **Javascript**, **React**, **Next.JS**, **TailwindCSS**
 
 _Main Page:_
 
-![App Image 1](https://i.postimg.cc/njcJT62b/mainPage.png)
+![App Image 1](https://i.imgur.com/sElfw8Z.png)
 
 _Blog Page:_
 
-![App Image 2](https://i.postimg.cc/DWchr2qP/blogPage.png)
+![App Image 2](https://i.imgur.com/X7sRXDG.png)
